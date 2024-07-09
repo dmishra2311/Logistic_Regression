@@ -1,2 +1,2 @@
-# Logistic_Regression
-Logistic Regression to identify significant variables responsible for Lung Cancer
+# UHS Logistic_Regression
+Logistic Regression model to identify significant variables responsible for Lung Cancer. The dataset from UHS contains a lot of variables like Age, Sex, Race etc. The dependent variable is 'lung cancer history', which is binary. The analysis aims at cleaning the dataset, doing exploratory data nalaysis and buiding a logit model that performs well and identifies the significant variables.
